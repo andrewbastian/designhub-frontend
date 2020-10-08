@@ -2,7 +2,7 @@
 
 - A seamless collaborative design asset platform for designers by designers
 
-- You can find the deployed project at [https://www.designhubx.com](https://www.designhubx.com)
+- You can find the deployed project at [designhubx.netlify.app/](designhubx.netlify.app/)
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
